@@ -1,0 +1,10 @@
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.resources
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.de.resources
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\PdfSharp.csproj.GenerateResource.Cache
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\de\PdfSharp.resources.dll
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\PdfSharp.dll
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\PdfSharp.pdb
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\bin\Debug\PdfSharp.dll
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\bin\Debug\PdfSharp.pdb
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\john_\OneDrive\Documents\Dev\PDF\PDFdivvy\PdfSharp\obj\Debug\PdfSharp.csprojAssemblyReference.cache
