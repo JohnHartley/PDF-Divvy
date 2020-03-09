@@ -81,7 +81,12 @@ namespace PDFdivvyWF
             return lineCount;
         }
 
-        string[] getFieldsParse(string line)
+        /// <summary>
+        /// Get a comma delimited line
+        /// </summary>
+        /// <param name="line"></param>
+        /// <returns></returns>
+        public string[] getFieldsParse(string line)
         {
             int p = 0;
             string f;
