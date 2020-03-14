@@ -1,0 +1,10 @@
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\bin\Release\PdfSharp.dll
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\bin\Release\PdfSharp.pdb
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\bin\Release\de\PdfSharp.resources.dll
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\PdfSharp.csprojAssemblyReference.cache
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\PdfSharp.Resources.Messages.resources
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\PdfSharp.Resources.Messages.de.resources
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\PdfSharp.csproj.GenerateResource.cache
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\de\PdfSharp.resources.dll
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\PdfSharp.dll
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PdfSharp\obj\Release\PdfSharp.pdb

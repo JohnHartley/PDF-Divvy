@@ -1,0 +1,10 @@
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\bin\Release\PDFdivvyWF.exe.config
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\bin\Release\PDFdivvyWF.exe
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\bin\Release\PdfSharp.dll
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\bin\Release\PdfSharp.pdb
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\bin\Release\de\PdfSharp.resources.dll
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\obj\Release\PDFdivvyWF.csprojAssemblyReference.cache
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\obj\Release\PDFdivvyWF.MainForm.resources
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\obj\Release\PDFdivvyWF.csproj.GenerateResource.cache
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\obj\Release\PDFdivvyWF.csproj.CopyComplete
+C:\Users\john_\OneDrive\Documents\Dev\sourcetree\PDF-Divvy\PDFdivvyWF\obj\Release\PDFdivvyWF.exe
